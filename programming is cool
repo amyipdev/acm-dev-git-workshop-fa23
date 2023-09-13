@@ -1,0 +1,9 @@
+#include <iostream>
+
+int main()
+{
+cout << "programming is awsome!!!";
+
+return 0;
+
+}
