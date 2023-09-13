@@ -1,0 +1,4 @@
+std::cout << "Hello World" << std::endl;
+std::cout << "I am now a professional coder" << std::endl;
+std::cout << "BING" << std::endl;
+std::cout << "BONG" << std::endl;
