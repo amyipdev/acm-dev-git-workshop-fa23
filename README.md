@@ -5,4 +5,4 @@ Welcome to the tutorial repository! We're working off of [these](https://docs.go
 Make sure to fork the repository, and then propose changes. You can do so directly in the GitHub editor, or you can clone the repository locally.
 
 
-Jacky workshop
+acm workshop
